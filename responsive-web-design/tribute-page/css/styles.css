@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+    background-color: #4b8e8d;
+}
+
+.title-div {
+    text-align: center;
+    color: #ffffff;
+}
+
+#title {
+    font-size: 3.5rem;
+    color: #ffffff;
+}
+
+.title-description {
+    font-size: 2rem;
+}
+#img-div {
+    text-align: center;
+    background-color: black;
+    margin: 20px 15px 10px 15px;
+}
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+
+}
+
+#img-caption {
+    margin-bottom: 50px;
+    color: white;
+}
+
+.content-div {
+    text-align: left;
+    color: #e3e7f1;
+
+}
+
+.center {
+    width: 550px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.heading-content {
+    font-size: 2rem;
+}
+
+#tribute-link {
+    color: #e3e7f1;
+}
+
+.equipment-content {
+    text-align: center;
+}
